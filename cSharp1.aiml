@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="1.0">
+
+<!-- insert your AIML categories here -->
+<category>
+<pattern>CSharp</pattern>
+<template>C# is a modern, general-purpose, object-oriented programming language developed by Microsoft and approved by European Computer Manufacturers Association (ECMA) and International Standards Organization (ISO), and was developed by Anders Hejlsberg and his team during the development of .Net Framework.
+ <get name="personName"/>
+</template>
+</category>
+
+<category>
+<pattern>what is C Sharp</pattern>
+<template><srai>CSharp</srai></template>
+</category>
+
+<category>
+<pattern>tell me about C Sharp</pattern>
+<template><srai>CSharp</srai></template>
+</category>
+
+<category>
+<pattern>what is C#</pattern>
+<template><srai>CSharp</srai></template>
+</category>
+
+<category>
+<pattern>tell me about C#</pattern>
+<template><srai>CSharp</srai></template>
+</category>
+
+<category>
+<pattern>C#</pattern>
+<template><srai>CSharp</srai></template>
+</category>
+
+
+<category>
+<pattern>Class</pattern>
+<template>
+A class defines the data and behaviour of a type, similar to a template and must have at least one method and one field <get name="personName"/>
+</template>
+</category>
+
+<category>
+<pattern>what is a class</pattern>
+<template><srai>class</srai></template>
+</category>
+
+<category>
+<pattern>what is a class *</pattern>
+<template><srai>class</srai></template>
+</category>
+
+<category>
+<pattern>tell me about classes</pattern>
+<template><srai>class</srai></template>
+</category>
+
+<category>
+<pattern>tell me about classes *</pattern>
+<template><srai>class</srai></template>
+</category>
+
+<category>
+<pattern>what are classes</pattern>
+<template><srai>class</srai></template>
+</category>
+
+<category>
+<pattern>what are classes *</pattern>
+<template><srai>class</srai></template>
+</category>
+
+<category>
+<pattern>explain classes</pattern>
+<template><srai>class</srai></template>
+</category>
+
+<category>
+<pattern>explain classes *</pattern>
+<template><srai>class</srai></template>
+</category>
+
+<category>
+<pattern>explain what a class</pattern>
+<template><srai>class</srai></template>
+</category>
+
+<category>
+<pattern>explain what a class *</pattern>
+<template><srai>class</srai></template>
+</category>
+
+<category>
+<pattern>do you know what a class is</pattern>
+<template><srai>class</srai></template>
+</category>
+
+<category>
+<pattern>do you know what a class is *</pattern>
+<template><srai>class</srai></template>
+</category>
+
+<category>
+<pattern>what do you know about classes</pattern>
+<template><srai>class</srai></template>
+</category>
+
+<category>
+<pattern>what do you know about classes *</pattern>
+<template><srai>class</srai></template>
+</category>
+
+
+<category>
+<pattern>can you explain classes</pattern>
+<template><srai>class</srai></template>
+</category>
+
+<category>
+<pattern>can you explain classes *</pattern>
+<template><srai>class</srai></template>
+</category>
+
+
+<category>
+<pattern>do you know about classes</pattern>
+<template><srai>class</srai></template>
+</category>
+
+<category>
+<pattern>do you know about classes *</pattern>
+<template><srai>class</srai></template>
+</category>
+
+
+<category>
+<pattern>can you tell me about classes</pattern>
+<template><srai>class</srai></template>
+</category>
+
+<category>
+<pattern>can you tell me about classes *</pattern>
+<template><srai>class</srai></template>
+</category>
+
+
+</aiml>

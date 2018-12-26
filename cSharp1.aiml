@@ -145,5 +145,116 @@ A class defines the data and behaviour of a type, similar to a template and must
 <template><srai>class</srai></template>
 </category>
 
+ 
+ <!-- members section -->
+<category>
+<pattern>member</pattern>
+<template>
+A member represents the data or behaviour of a class or structure for example a field, property, method, constant, event etc <get name="personName"/>
+</template>
+</category>
+
+<category>
+<pattern>what is a member</pattern>
+<template><srai>member</srai></template>
+</category>
+
+<category>
+<pattern>what is a member *</pattern>
+<template><srai>member</srai></template>
+</category>
+
+<category>
+<pattern>tell me about members</pattern>
+<template><srai>member</srai></template>
+</category>
+
+<category>
+<pattern>tell me about members *</pattern>
+<template><srai>member</srai></template>
+</category>
+
+<category>
+<pattern>what are members</pattern>
+<template><srai>member</srai></template>
+</category>
+
+<category>
+<pattern>what are members *</pattern>
+<template><srai>member</srai></template>
+</category>
+
+<category>
+<pattern>explain members</pattern>
+<template><srai>member</srai></template>
+</category>
+
+<category>
+<pattern>explain members *</pattern>
+<template><srai>member</srai></template>
+</category>
+
+<category>
+<pattern>explain what a member</pattern>
+<template><srai>member</srai></template>
+</category>
+
+<category>
+<pattern>explain what a member *</pattern>
+<template><srai>member</srai></template>
+</category>
+
+<category>
+<pattern>do you know what a member is</pattern>
+<template><srai>member</srai></template>
+</category>
+
+<category>
+<pattern>do you know what a member is *</pattern>
+<template><srai>member</srai></template>
+</category>
+
+<category>
+<pattern>what do you know about members</pattern>
+<template><srai>member</srai></template>
+</category>
+
+<category>
+<pattern>what do you know about members *</pattern>
+<template><srai>member</srai></template>
+</category>
+
+
+<category>
+<pattern>can you explain members</pattern>
+<template><srai>member</srai></template>
+</category>
+
+<category>
+<pattern>can you explain members *</pattern>
+<template><srai>member</srai></template>
+</category>
+
+
+<category>
+<pattern>do you know about members</pattern>
+<template><srai>member</srai></template>
+</category>
+
+<category>
+<pattern>do you know about members *</pattern>
+<template><srai>member</srai></template>
+</category>
+
+
+<category>
+<pattern>can you tell me about members</pattern>
+<template><srai>member</srai></template>
+</category>
+
+<category>
+<pattern>can you tell me about members *</pattern>
+<template><srai>member</srai></template>
+</category>
 
 </aiml>

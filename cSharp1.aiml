@@ -257,4 +257,104 @@ A member represents the data or behaviour of a class or structure for example a 
 <template><srai>member</srai></template>
 </category>
 
+ 
+ 
+<!-- public section -->
+<category>
+<pattern>public</pattern>
+<template>By applying the public keyword, means there are no restrictions on accessing these members  <get name="personName"/>
+</template>
+</category>
+
+<category>
+<pattern>what is public</pattern>
+<template><srai>public</srai></template>
+</category>
+
+<category>
+<pattern>what is public *</pattern>
+<template><srai>public</srai></template>
+</category>
+
+<category>
+<pattern>tell me about publics</pattern>
+<template><srai>public</srai></template>
+</category>
+
+<category>
+<pattern>tell me about public *</pattern>
+<template><srai>public</srai></template>
+</category>
+
+<category>
+<pattern>what are publics *</pattern>
+<template><srai>public</srai></template>
+</category>
+
+<category>
+<pattern>explain public</pattern>
+<template><srai>public</srai></template>
+</category>
+
+<category>
+<pattern>explain public *</pattern>
+<template><srai>public</srai></template>
+</category>
+
+<category>
+<pattern>explain what a public *</pattern>
+<template><srai>public</srai></template>
+</category>
+
+<category>
+<pattern>do you know what a public is</pattern>
+<template><srai>public</srai></template>
+</category>
+
+<category>
+<pattern>do you know what a public *</pattern>
+<template><srai>public</srai></template>
+</category>
+
+<category>
+<pattern>what do you know about public</pattern>
+<template><srai>public</srai></template>
+</category>
+
+<category>
+<pattern>what do you know about public *</pattern>
+<template><srai>public</srai></template>
+</category>
+
+<category>
+<pattern>can you explain public</pattern>
+<template><srai>public</srai></template>
+</category>
+
+<category>
+<pattern>can you explain public *</pattern>
+<template><srai>public</srai></template>
+</category>
+
+<category>
+<pattern>do you know about public</pattern>
+<template><srai>public</srai></template>
+</category>
+
+<category>
+<pattern>do you know about public *</pattern>
+<template><srai>public</srai></template>
+</category>
+
+<category>
+<pattern>can you tell me about public</pattern>
+<template><srai>public</srai></template>
+</category>
+
+<category>
+<pattern>can you tell me about public *</pattern>
+<template><srai>public</srai></template>
+</category>
+
+
 </aiml>

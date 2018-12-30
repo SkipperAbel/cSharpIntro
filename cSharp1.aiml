@@ -356,5 +356,111 @@ A member represents the data or behaviour of a class or structure for example a 
 <template><srai>public</srai></template>
 </category>
 
+<!-- variables section -->
+<category>
+<pattern>variable</pattern>
+<template>
+A variable is a storage location that holds a value. The data type and name must be explicitly declared in a statement before use. <get name="personName"/>
+</template>
+</category>
 
+<category>
+<pattern>what is a variable</pattern>
+<template><srai>variable</srai></template>
+</category>
+
+<category>
+<pattern>what is a variable *</pattern>
+<template><srai>variable</srai></template>
+</category>
+
+<category>
+<pattern>tell me about variables</pattern>
+<template><srai>variable</srai></template>
+</category>
+
+<category>
+<pattern>tell me about variables *</pattern>
+<template><srai>variable</srai></template>
+</category>
+
+<category>
+<pattern>what are variables</pattern>
+<template><srai>variable</srai></template>
+</category>
+
+<category>
+<pattern>what are variables *</pattern>
+<template><srai>variable</srai></template>
+</category>
+
+<category>
+<pattern>explain variables</pattern>
+<template><srai>variable</srai></template>
+</category>
+
+<category>
+<pattern>explain variables *</pattern>
+<template><srai>variable</srai></template>
+</category>
+
+<category>
+<pattern>explain what a variable</pattern>
+<template><srai>variable</srai></template>
+</category>
+
+<category>
+<pattern>explain what a variable *</pattern>
+<template><srai>variable</srai></template>
+</category>
+
+<category>
+<pattern>do you know what a variable is</pattern>
+<template><srai>variable</srai></template>
+</category>
+
+<category>
+<pattern>do you know what a variable is *</pattern>
+<template><srai>variable</srai></template>
+</category>
+
+<category>
+<pattern>what do you know about variables</pattern>
+<template><srai>variable</srai></template>
+</category>
+
+<category>
+<pattern>what do you know about variables *</pattern>
+<template><srai>variable</srai></template>
+</category>
+
+<category>
+<pattern>can you explain variables</pattern>
+<template><srai>variable</srai></template>
+</category>
+
+<category>
+<pattern>can you explain variables *</pattern>
+<template><srai>variable</srai></template>
+</category>
+
+<category>
+<pattern>do you know about variables</pattern>
+<template><srai>variable</srai></template>
+</category>
+
+<category>
+<pattern>do you know about variables *</pattern>
+<template><srai>variable</srai></template>
+</category>
+
+<category>
+<pattern>can you tell me about variables</pattern>
+<template><srai>variable</srai></template>
+</category>
+
+<category>
+<pattern>can you tell me about variables *</pattern>
+<template><srai>variable</srai></template>
+</category>
 </aiml>

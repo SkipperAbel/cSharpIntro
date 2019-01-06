@@ -463,4 +463,100 @@ A variable is a storage location that holds a value. The data type and name must
 <pattern>can you tell me about variables *</pattern>
 <template><srai>variable</srai></template>
 </category>
+ 
+ 
+ <!-- protected section -->
+<category>
+<pattern>protected</pattern>
+<template>The protected keyword, restricts a member’s access to within hte class it is declared in, and any derived class.  <get name="personName"/>
+</template>
+</category>
+
+<category>
+<pattern>what is protected</pattern>
+<template><srai>protected</srai></template>
+</category>
+
+<category>
+<pattern>what is protected *</pattern>
+<template><srai>protected</srai></template>
+</category>
+
+<category>
+<pattern>tell me about protected</pattern>
+<template><srai>protected</srai></template>
+</category>
+
+<category>
+<pattern>tell me about protected *</pattern>
+<template><srai>protected</srai></template>
+</category>
+
+<category>
+<pattern>explain protected</pattern>
+<template><srai>protected</srai></template>
+</category>
+
+<category>
+<pattern>explain protected *</pattern>
+<template><srai>protected</srai></template>
+</category>
+
+<category>
+<pattern>explain what protected *</pattern>
+<template><srai>protected</srai></template>
+</category>
+
+<category>
+<pattern>do you know what protected is</pattern>
+<template><srai>protected</srai></template>
+</category>
+
+<category>
+<pattern>do you know what protected *</pattern>
+<template><srai>protected</srai></template>
+</category>
+
+<category>
+<pattern>what do you know about protected</pattern>
+<template><srai>protected</srai></template>
+</category>
+
+<category>
+<pattern>what do you know about protected *</pattern>
+<template><srai>protected</srai></template>
+</category>
+
+<category>
+<pattern>can you explain protected</pattern>
+<template><srai>protected</srai></template>
+</category>
+
+<category>
+<pattern>can you explain protected *</pattern>
+<template><srai>protected</srai></template>
+</category>
+
+<category>
+<pattern>do you know about protected</pattern>
+<template><srai>protected</srai></template>
+</category>
+
+<category>
+<pattern>do you know about protected *</pattern>
+<template><srai>protected</srai></template>
+</category>
+
+<category>
+<pattern>can you tell me about protected</pattern>
+<template><srai>protected</srai></template>
+</category>
+
+<category>
+<pattern>can you tell me about protected *</pattern>
+<template><srai>protected</srai></template>
+</category>
+ 
+ 
+ 
 </aiml>

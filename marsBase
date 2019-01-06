@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="1.0">
+
+<!-- insert your AIML categories here -->
+
+
+<category>
+<pattern>are we alone</pattern>
+<template>
+<random>
+<li>just you and me <get name="personName"/> </li>
+<li>we are quite alone <get name="personName"/> </li>
+<li>I assure you only you and I are here <get name="personName"/> </li>
+<li>Me and you <get name="personName"/> </li>
+<li>Just us two <get name="personName"/> </li>
+</random>
+<random>
+<li>reassured</li>
+<li>hope that makes you feel more comfortable</li>
+<li>though there may be the odd avatar if we are in Second Life right now</li>
+<li>relax just us two, and the odd avatar in Second Life</li>
+<li>trust me, I am an AI bot</li>
+</random>
+</template>
+</category>
+
+<category>
+<pattern>is anyone else recording *</pattern>
+<template><srai>are we alone</srai></template>
+</category>
+
+<category>
+<pattern>anyone else here</pattern>
+<template><srai>are we alone</srai></template>
+</category>
+
+<category>
+<pattern>anyone else here *</pattern>
+<template><srai>are we alone</srai></template>
+</category>
+
+<category>
+<pattern>how many people are there in mars</pattern>
+<template><srai>are we alone</srai></template>
+</category>
+
+<category>
+<pattern>do you record *</pattern>
+<template><srai>are we alone</srai></template>
+</category>
+
+<category>
+<pattern>are we alone *</pattern>
+<template><srai>are we alone</srai></template>
+</category>
+
+<category>
+<pattern>is there anyone *</pattern>
+<template><srai>are we alone</srai></template>
+</category>
+
+
+<category>
+<pattern>who else *</pattern>
+<template><srai>are we alone</srai></template>
+</category>
+
+<category>
+<pattern>is anyone else recording *</pattern>
+<template><srai>are we alone</srai></template>
+</category>
+</aiml>
